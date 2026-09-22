@@ -21,7 +21,7 @@ We work with businesses to understand what's slowing them down, identify where t
 
 An end-to-end workflow designed to simplify construction field reporting.
 
-The workflows takes field submissions and automatically transforms them into:
+The workflows take field submissions and automatically transforms them into:
 
 - Structured daily reports
 - AI-generated analysis
